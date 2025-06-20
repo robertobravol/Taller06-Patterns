@@ -1,1 +1,1 @@
-# Taller06-Patterns
+# Taller06-Patterns(Formativo)
